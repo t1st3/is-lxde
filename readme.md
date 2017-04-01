@@ -1,5 +1,7 @@
 # is-lxde [![Build Status Travis](https://travis-ci.org/t1st3/is-lxde.svg?branch=master)](https://travis-ci.org/t1st3/is-lxde)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/t1st3/is-lxde.svg)](https://greenkeeper.io/)
+
 > Check if the current session runs [LXDE desktop](http://lxde.org/).
 
 
