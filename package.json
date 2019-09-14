@@ -26,9 +26,7 @@
     "detect",
     "check"
   ],
-  "dependencies": {
-    "pify": "^4.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "ava": "^2.3.0",
     "nyc": "^14.1.1",

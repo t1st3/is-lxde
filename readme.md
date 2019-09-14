@@ -15,7 +15,7 @@ $ npm install --save is-lxde
 ```js
 const isLxde = require('is-lxde');
 
-isLxde().then(data => {
+isLxde.then(data => {
   console.log(data);
   //=> true or false
 });
