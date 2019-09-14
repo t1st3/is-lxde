@@ -1,6 +1,6 @@
 {
   "name": "is-lxde",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Check if the current session runs LXDE desktop",
   "license": "MIT",
   "repository": "t1st3/is-lxde",
